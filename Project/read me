@@ -1,1 +1,17 @@
+We love cricket and the most loving cricket
+format is T20. T20 world cup is knocking the
+door in India and we are eagerly waiting for the
+event. Every cricket lover wants to know the
+winning team of the tournament but this
+cannot be possible before plying the game. In
+this case we can use machine learning for
+advance predating. We have used different
+types of machine learning algorithm for getting
+better result. We achieved 64% accuracy in
+logistic Regression that is very effective for t20
+matches. Other’s machine Learning algorithm
+used: Random Forest, KNN, Support vector
+machine. Our prediction is tested properly and
+we found a good outcome for prediction in
+different case
 
