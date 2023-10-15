@@ -1,21 +1,10 @@
-![image](https://github.com/sftSalman/ML_Projcet/assets/33355278/1de96bb3-265b-4bcd-997b-62584a82c14d)![image](https://github.com/sftSalman/ML_Projcet/assets/33355278/421bded4-3b53-41ff-a844-fbfd34556dc8)
 
 ## Predicting the winner of t20 world cup 2021  using Machine learning   
-
-Data Collection  : 
-![image](https://github.com/sftSalman/ML_Projcet/assets/33355278/cabd188d-095b-49cf-a79c-e9a4c210eb56)
-![image](https://github.com/sftSalman/ML_Projcet/assets/33355278/7d740d14-d41a-46a2-a82f-2045f5fccfc1)
-![image](https://github.com/sftSalman/ML_Projcet/assets/33355278/b66ad9d9-de0f-472b-8d1e-52d78802e5f8)
-
-#Data preposessing 
-![image](https://github.com/sftSalman/ML_Projcet/assets/33355278/c80f4df3-c028-4435-a30b-36a190f287b6)
+![image](https://github.com/sftSalman/ML_Projcet/assets/33355278/c412a392-af9b-40b4-9152-2a20b660ecf8)
 
 
-## Result 
-1  Support vector classifier  62%
-2 Random forest classifers   58 %
-3.kKNeighborsClassifier      63%
-4 logistric Regressor        64%
+Cricket is the most played game in the Indian subcontinent. Most the of country’s cricket fan are crazy for cricket. Icc decided that Icc T20 world cup will be held in India in 2021 and that brings Indian subcontinent’s people a joy of happiness. India is one of the best crickets played team in the world and they also won icc t20 world cup as well. India is the best known for their cricket achievement they played very well in the home town. Others team like Pakistan, Bangladesh, Srilanka , Afghanistan , England also played very good cricket in the Indian field 
+
 
 
 
